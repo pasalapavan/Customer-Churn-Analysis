@@ -44,38 +44,40 @@ The objective is to analyze telecom customer data, identify patterns leading to 
    ```bash
    git clone https://github.com/yourusername/customer-churn-analysis.git
    cd customer-churn-analysis
-Create a virtual environment & install dependencies:
+2. Create a virtual environment & install dependencies:
 
+ ```bash
 pip install -r requirements.txt
 
-
-Run the Jupyter Notebook for analysis:
-
+```
+3. Run the Jupyter Notebook for analysis:
+  
+ ```bash
 jupyter notebook "Customer churn analysis teleco.ipynb"
+```
 
-
-To run the app:
-
+4. To run the app:
+ ```bash
 python app.py
+```
+
+## 📊 Dataset
+
+- **The dataset includes telecom customer details such as:
+
+- **Demographics: Gender, age group, senior citizen
+
+- **Services: Internet, phone, online security, streaming
+
+- **Account Info: Tenure, contract type, payment method, monthly & total charges
+
+- **Target Variable: Churn (Yes/No)
+
+- **Dataset source: Telco Customer Churn - Kaggle
 
 
-📊 Dataset
 
-The dataset includes telecom customer details such as:
-
-Demographics: Gender, age group, senior citizen
-
-Services: Internet, phone, online security, streaming
-
-Account Info: Tenure, contract type, payment method, monthly & total charges
-
-Target Variable: Churn (Yes/No)
-
-Dataset source: Telco Customer Churn - Kaggle
-
-
-
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Hyperparameter tuning for better accuracy
 
@@ -87,7 +89,7 @@ Real-time prediction API integration
 
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 Please open an issue or submit a pull request with suggestions and improvements.
