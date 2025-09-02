@@ -7,7 +7,7 @@ The objective is to analyze telecom customer data, identify patterns leading to 
 
 ## 📂 Project Structure
 
-├── app.py # Flask/Dash app for deployment
+├── app.py # Streamlitapp for deployment
 
 ├── CBC.pkl # Trained machine learning model (Pickle file)
 
