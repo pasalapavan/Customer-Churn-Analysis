@@ -8,9 +8,13 @@ The objective is to analyze telecom customer data, identify patterns leading to 
 ## 📂 Project Structure
 
 ├── app.py # Flask/Dash app for deployment
+
 ├── CBC.pkl # Trained machine learning model (Pickle file)
+
 ├── Customer churn analysis teleco.ipynb # Jupyter Notebook with EDA & model training
+
 ├── requirements.txt # Python dependencies (to be added)
+
 └── README.md # Project documentation
 
 
