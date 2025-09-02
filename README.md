@@ -63,29 +63,29 @@ python app.py
 
 ## 📊 Dataset
 
-- **The dataset includes telecom customer details such as:
+- **The dataset includes telecom customer details such as:**
 
-- **Demographics: Gender, age group, senior citizen
+- **Demographics: Gender, age group, senior citizen**
 
-- **Services: Internet, phone, online security, streaming
+- **Services: Internet, phone, online security, streaming**
 
-- **Account Info: Tenure, contract type, payment method, monthly & total charges
+- **Account Info: Tenure, contract type, payment method, monthly & total charges**
 
-- **Target Variable: Churn (Yes/No)
+- **Target Variable: Churn (Yes/No)**
 
-- **Dataset source: Telco Customer Churn - Kaggle
+- **Dataset source: Telco Customer Churn - Kaggle**
 
 
 
 ## 🚀 Future Improvements
 
-Hyperparameter tuning for better accuracy
+- **Hyperparameter tuning for better accuracy**
 
-Experiment with deep learning models
+- **Experiment with deep learning models**
 
-Build an interactive Streamlit/Dash dashboard
+- **Build an interactive Streamlit/Dash dashboard**
 
-Real-time prediction API integration
+- **Real-time prediction API integration**
 
 
 
